@@ -9,3 +9,7 @@
 `test.csv` - the test set; you will be predicting the claim for each row in this file
 
 `sample_submission.csv` - a sample submission file in the correct format
+
+**For downloading data**
+
+`kaggle competitions download -c tabular-playground-series-sep-2021`
